@@ -1,0 +1,12 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Honey-Roasted Carrots with Tahini Yogurt  Rating :5.0 Calories :294 Protein :7 Fat :15 Sodium :761 Price :83
+Parmesan Potato-Stuffed Roasted Onions  Rating :4.375 Calories :294 Protein :9 Fat :15 Sodium :228 Price :83
+Grilled Summer Squash and Zucchini  Rating :4.375 Calories :294 Protein :6 Fat :10 Sodium :340 Price :34
+
+The final payment: 200
+
+-------------------------------2021-06-29T19:50:03.668394200

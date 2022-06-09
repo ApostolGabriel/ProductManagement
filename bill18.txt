@@ -1,0 +1,15 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Fig and Walnut Tapenade with Goat Cheese  Rating :4.375 Calories :98 Protein :4 Fat :6 Sodium :154 Price :33
+Cooperstown  Rating :0.0 Calories :98 Protein :0 Fat :0 Sodium :3 Price :84
+Beurre Blanc  Rating :5.0 Calories :99 Protein :0 Fat :9 Sodium :151 Price :25
+Sautéed Green Beans and Brussels Sprouts with Chile and Mint  Rating :4.375 Calories :99 Protein :4 Fat :5 Sodium :25 Price :23
+Prunes in Crispy Bacon  Rating :5.0 Calories :99 Protein :2 Fat :8 Sodium :96 Price :79
+Jícama-Melon Salad  Rating :4.375 Calories :99 Protein :2 Fat :0 Sodium :331 Price :26
+
+The final payment: 270
+
+-------------------------------2021-06-28T13:30:27.655790400

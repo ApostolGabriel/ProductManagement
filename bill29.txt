@@ -1,0 +1,15 @@
+------------------------Bill-----------------------
+
+
+Client Ramona ordered
+
+Arrabbiata Sauce  Rating :2.5 Calories :54 Protein :2 Fat :3 Sodium :9 Price :97
+Rich Turkey Gravy  Rating :5.0 Calories :54 Protein :2 Fat :0 Sodium :315 Price :38
+Yogurt and Lemon Dressing  Rating :3.125 Calories :55 Protein :4 Fat :1 Sodium :445 Price :43
+Goat Cheese Chocolate Truffles  Rating :4.375 Calories :55 Protein :2 Fat :4 Sodium :32 Price :85
+Smoked Salmon Tartare with Ginger and Sesame  Rating :3.75 Calories :55 Protein :6 Fat :3 Sodium :196 Price :62
+Broccoli Rabe Crostini  Rating :0.0 Calories :55 Protein :1 Fat :5 Sodium :99 Price :32
+
+The final payment: 357
+
+-------------------------------2022-05-15T20:50:14.315599500

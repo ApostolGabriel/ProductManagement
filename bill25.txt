@@ -1,0 +1,14 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Red and Green Tomato Salsa  Rating :3.125 Calories :23 Protein :1 Fat :0 Sodium :552 Price :38
+The Original Three-Ingredient Rub  Rating :0.0 Calories :23 Protein :1 Fat :1 Sodium :6 Price :47
+Shrimp Sates with Spiced Pistachio Chutney  Rating :3.75 Calories :23 Protein :1 Fat :2 Sodium :4 Price :78
+Coriander-Herb Spice Rub  Rating :3.75 Calories :24 Protein :1 Fat :1 Sodium :1911 Price :51
+Arugula Salad with Heirloom Tomatoes and Red Onion  Rating :2.5 Calories :24 Protein :1 Fat :0 Sodium :12 Price :21
+
+The final payment: 235
+
+-------------------------------2021-07-06T20:38:58.153128

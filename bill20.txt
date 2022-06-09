@@ -1,0 +1,16 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Smoked Caviar and Hummus on Pita Toasts  Rating :5.0 Calories :23 Protein :1 Fat :2 Sodium :49 Price :79
+Barbecued Shrimp  Rating :3.75 Calories :23 Protein :4 Fat :0 Sodium :205 Price :71
+Cilantro-Tomato Salsa  Rating :3.75 Calories :23 Protein :1 Fat :0 Sodium :7 Price :32
+Cauliflower-Leek Purée  Rating :3.125 Calories :23 Protein :2 Fat :0 Sodium :149 Price :13
+Red and Green Tomato Salsa  Rating :3.125 Calories :23 Protein :1 Fat :0 Sodium :552 Price :38
+The Original Three-Ingredient Rub  Rating :0.0 Calories :23 Protein :1 Fat :1 Sodium :6 Price :47
+Shrimp Sates with Spiced Pistachio Chutney  Rating :3.75 Calories :23 Protein :1 Fat :2 Sodium :4 Price :78
+
+The final payment: 358
+
+-------------------------------2021-06-28T14:10:24.238270300

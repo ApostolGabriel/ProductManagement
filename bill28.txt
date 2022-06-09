@@ -1,0 +1,14 @@
+------------------------Bill-----------------------
+
+
+Client Marius ordered
+
+Coriander-Herb Spice Rub  Rating :3.75 Calories :24 Protein :1 Fat :1 Sodium :1911 Price :51
+Arugula Salad with Heirloom Tomatoes and Red Onion  Rating :2.5 Calories :24 Protein :1 Fat :0 Sodium :12 Price :21
+Beef Stock  Rating :4.375 Calories :24 Protein :4 Fat :1 Sodium :87 Price :26
+Red Pepper Sauce  Rating :4.375 Calories :24 Protein :1 Fat :0 Sodium :253 Price :62
+Endive "Spoons" with Lemon-Herb Goat Cheese  Rating :4.375 Calories :24 Protein :1 Fat :2 Sodium :35 Price :50
+
+The final payment: 210
+
+-------------------------------2021-10-28T13:38:13.253042700

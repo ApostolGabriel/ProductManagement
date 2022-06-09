@@ -1,0 +1,16 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Prosciutto-Wrapped Asparagus Spears  Rating :4.375 Calories :27 Protein :2 Fat :2 Sodium :149 Price :25
+Cabbage Slaw  Rating :4.375 Calories :27 Protein :1 Fat :0 Sodium :389 Price :52
+Asian Cabbage Salad  Rating :3.75 Calories :27 Protein :1 Fat :1 Sodium :11 Price :37
+Homemade Montreal Steak Seasoning  Rating :5.0 Calories :27 Protein :1 Fat :1 Sodium :1910 Price :74
+Ginger Tea  Rating :4.375 Calories :27 Protein :0 Fat :0 Sodium :17 Price :81
+Parmesan Walnut Salad in Endive Leaves  Rating :4.375 Calories :27 Protein :1 Fat :2 Sodium :46 Price :29
+Barbecue Rub #67  Rating :0.0 Calories :27 Protein :0 Fat :0 Sodium :2293 Price :98
+
+The final payment: 396
+
+-------------------------------2021-06-28T13:30:10.024774100

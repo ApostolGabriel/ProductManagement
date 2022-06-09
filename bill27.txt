@@ -1,0 +1,14 @@
+------------------------Bill-----------------------
+
+
+Client Marius ordered
+
+Fresh Corn Tortillas  Rating :3.75 Calories :23 Protein :1 Fat :2 Sodium :61 Price :79
+Quick & Spicy Asian Pickles  Rating :5.0 Calories :23 Protein :1 Fat :0 Sodium :128 Price :48
+Spicy Pickled Shallots  Rating :0.0 Calories :23 Protein :1 Fat :0 Sodium :162 Price :78
+Ethiopian Spice Tea  Rating :5.0 Calories :23 Protein :1 Fat :0 Sodium :13 Price :49
+Smoked Caviar and Hummus on Pita Toasts  Rating :5.0 Calories :23 Protein :1 Fat :2 Sodium :49 Price :79
+
+The final payment: 333
+
+-------------------------------2021-10-28T13:37:59.171337

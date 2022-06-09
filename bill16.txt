@@ -1,0 +1,16 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Fish Stock  Rating :5.0 Calories :25 Protein :4 Fat :1 Sodium :124 Price :27
+Potato Samosa Tartlets  Rating :3.75 Calories :25 Protein :0 Fat :1 Sodium :26 Price :82
+Restorative Beef Broth  Rating :3.75 Calories :26 Protein :1 Fat :2 Sodium :8 Price :58
+Zinfandel Beef Stock  Rating :3.75 Calories :26 Protein :2 Fat :1 Sodium :50 Price :30
+Spiced Shrimp  Rating :4.375 Calories :26 Protein :3 Fat :1 Sodium :117 Price :33
+Poppy Seed Crackers  Rating :3.75 Calories :27 Protein :1 Fat :1 Sodium :50 Price :35
+Chicken Stock  Rating :5.0 Calories :27 Protein :2 Fat :2 Sodium :49 Price :64
+
+The final payment: 329
+
+-------------------------------2021-06-28T13:29:49.003841400

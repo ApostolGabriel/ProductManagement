@@ -1,0 +1,12 @@
+------------------------Bill-----------------------
+
+
+Client gabi ordered
+
+Arugula Salad with Heirloom Tomatoes and Red Onion  Rating :2.5 Calories :24 Protein :1 Fat :0 Sodium :12 Price :21
+Beef Stock  Rating :4.375 Calories :24 Protein :4 Fat :1 Sodium :87 Price :26
+Red Pepper Sauce  Rating :4.375 Calories :24 Protein :1 Fat :0 Sodium :253 Price :62
+
+The final payment: 109
+
+-------------------------------2021-06-28T14:10:32.155057100
